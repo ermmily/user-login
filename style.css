@@ -1,0 +1,57 @@
+html {
+  background: url(userlogin-img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+  background-color: rgba(225, 225, 225, 0.8);
+  width: 600px;
+  margin: auto;
+  text-align: center;
+  border-radius: 25px;
+  border: 2px solid rgb(128, 0, 128);
+}
+
+hr {
+  width: 400px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  padding: 5px 5px;
+}
+
+img {
+  margin: 5px;
+}
+
+div {
+  padding: 25px 10px 30px 10px;
+  background-color: rgba(128, 0, 128, 0.8);
+}
+p {
+  color: white;
+}
+
+.Password {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  color: white;
+  text-decoration: none;
+}
+.Password:hover {
+  color: yellow;
+  text-decoration: underline;
+  transition-duration: 3s;
+}
+a {
+  text-decoration: none;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+}
+span {
+  font-weight: bold;
+}
